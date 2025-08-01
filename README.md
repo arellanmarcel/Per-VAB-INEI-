@@ -1,0 +1,2 @@
+Este script en Python descarga y consolida información del Valor Agregado Bruto (VAB) por departamento desde los archivos Excel publicados en el sitio web del INEI (Perú). Extrae específicamente la hoja "cuadro2" de cada archivo, 
+correspondiente a la participación de cada sector, guardándolo en un solo archivo Excel. El enlace lo puedes encontrar aqui: https://m.inei.gob.pe/estadisticas/indice-tematico/economia/
